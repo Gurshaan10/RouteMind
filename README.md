@@ -180,7 +180,7 @@ docker-compose up --build
 
 | Home | Itinerary | Map View |
 |---|---|---|
-| (screenshots/Screenshot 2026-03-18 at 3.53.02 PM)| _screenshot_ | _screenshot_ |
+| (screenshots/Screenshot 2026-03-18 at 3.53.02 PM.png)| _screenshot_ | _screenshot_ |
 
 ---
 
