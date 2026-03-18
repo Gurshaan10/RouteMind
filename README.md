@@ -177,11 +177,10 @@ docker-compose up --build
 
 ## Screenshots
 
-> _Add screenshots or a demo GIF here_
 
 | Home | Itinerary | Map View |
 |---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| (screenshots/Screenshot 2026-03-18 at 3.53.02 PM)| _screenshot_ | _screenshot_ |
 
 ---
 
