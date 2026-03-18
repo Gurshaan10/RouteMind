@@ -177,10 +177,13 @@ docker-compose up --build
 
 ## Screenshots
 
+| Home | Itinerary |
+|------|-----------|
+| ![Home](screenshots/home.png) | ![Itinerary](screenshots/itinerary.png) |
 
-| Home | Itinerary | Map View |
-|---|---|---|
-| (screenshots/Screenshot 2026-03-18 at 3.53.02 PM.png)| _screenshot_ | _screenshot_ |
+| Map View | Details |
+|----------|---------|
+| ![Map](screenshots/map.png) | ![Details](screenshots/details.png) |
 
 ---
 
