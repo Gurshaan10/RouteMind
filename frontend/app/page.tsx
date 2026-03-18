@@ -12,10 +12,10 @@ export default function LandingPage() {
       <div className="max-w-6xl mx-auto">
         {/* Hero Section */}
         <div className="text-center mb-12 md:mb-16 animate-fade-in">
-          <div className="inline-block mb-6">
-            <div className="text-7xl md:text-8xl mb-4 animate-float">🧭</div>
+          <div className="inline-block mb-4">
+            <div className="text-5xl md:text-6xl mb-3 animate-float">🧭</div>
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold gradient-text mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold gradient-text mb-4">
             RouteMind
           </h1>
           <p className="text-xl md:text-3xl text-white font-semibold drop-shadow-lg mb-3">
@@ -89,7 +89,7 @@ export default function LandingPage() {
               </div>
 
               <div
-                className={`px-6 py-3 rounded-xl font-bold text-center transition-all ${
+                className={`px-4 py-2 rounded-xl font-semibold text-sm text-center transition-all ${
                   hoveredCard === "single"
                     ? "bg-gradient-to-r from-primary-600 to-accent-600 text-white shadow-glow"
                     : "bg-gradient-to-r from-primary-100 to-accent-100 text-primary-700"
@@ -141,7 +141,7 @@ export default function LandingPage() {
               </div>
 
               <div
-                className={`px-6 py-3 rounded-xl font-bold text-center transition-all ${
+                className={`px-4 py-2 rounded-xl font-semibold text-sm text-center transition-all ${
                   hoveredCard === "multi"
                     ? "bg-gradient-to-r from-accent-600 to-primary-600 text-white shadow-glow"
                     : "bg-gradient-to-r from-accent-100 to-primary-100 text-accent-700"
