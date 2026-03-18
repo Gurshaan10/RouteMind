@@ -211,4 +211,4 @@ RouteMind/
 ## Built by
 
 **Gurshaan Singh**
-[GitHub @Gurshaan10](https://github.com/Gurshaan10) · [LinkedIn](https://linkedin.com/in/gurshaan)
+[GitHub @Gurshaan10](https://github.com/Gurshaan10) · [LinkedIn](https://linkedin.com/in/gurshaans)
